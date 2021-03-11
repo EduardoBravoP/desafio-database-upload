@@ -1,3 +1,4 @@
+```bash
 # Clone this repository
 $ git clone https://github.com/EduardoBravoP/goFinances-backend.git
 
@@ -11,3 +12,4 @@ $ yarn
 $ yarn dev:server
 
 # The server will start on port:3333
+```
